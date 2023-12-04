@@ -1,0 +1,714 @@
+[
+    {
+      "question": "What is the primary importance of generating ideas for new products and services in organizations?",
+      "choices": {
+        "a": "Proving theorems or hypotheses",
+        "b": "Establishing constraints and opportunities for design",
+        "c": "Focusing solely on customer satisfaction",
+        "d": "Developing marketing strategies"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is crucial for the success of experience-focused products?",
+      "choices": {
+        "a": "Having a large research department",
+        "b": "Keeping research within a specific group",
+        "c": "Sharing an understanding of users and vision for the experience",
+        "d": "Focusing on quantitative research methods"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What are the two traits of truly effective research work?",
+      "choices": {
+        "a": "Actionable and durable",
+        "b": "Quantitative and qualitative",
+        "c": "Theoretical and practical",
+        "d": "Cost-effective and quick"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What was the experience strategy for Apple's iPod?",
+      "choices": {
+        "a": "High-quality form and interface design",
+        "b": "All your music, any time, anywhere",
+        "c": "The most storage capacity in the market",
+        "d": "The cheapest music player"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Why are research reports generally considered ineffectual?",
+      "choices": {
+        "a": "They are too brief",
+        "b": "They focus only on positive aspects",
+        "c": "They are often too detailed and thick",
+        "d": "They are always written in technical language"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is crucial in understanding people as customers?",
+      "choices": {
+        "a": "Focusing on financial aspects",
+        "b": "Matching our understanding of customers to ourselves",
+        "c": "Relying on external consultants",
+        "d": "Ignoring cultural differences"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is Wilkens' Law regarding research reports?",
+      "choices": {
+        "a": "The more detailed, the better",
+        "b": "Effectiveness is inversely proportional to the thickness of its binding",
+        "c": "Always use digital formats",
+        "d": "Reports should be updated annually"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What does the term 'design research' emphasize?",
+      "choices": {
+        "a": "The importance of digital tools",
+        "b": "The focus on creating successful products and services",
+        "c": "Using only qualitative methods",
+        "d": "Designing only for user interfaces"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Why is culture and context important in product and service design?",
+      "choices": {
+        "a": "It helps in choosing the right color schemes",
+        "b": "It's only relevant for marketing and advertising messages",
+        "c": "Humans invest experiences with meaning based on culture and context",
+        "d": "It has little impact on design"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Why is taking a mixed method approach in research beneficial?",
+      "choices": {
+        "a": "It ensures quick results",
+        "b": "It provides a comprehensive insight",
+        "c": "It's less expensive",
+        "d": "It focuses solely on quantitative data"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is the 'Area Alignment' principle in design?",
+      "choices": {
+        "a": "Aligning elements to balance visual weight",
+        "b": "Using similar areas for similar functions",
+        "c": "Keeping all elements in a grid layout",
+        "d": "Ensuring equal spacing between elements"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What does the 'Baby Face Bias' refer to in design?",
+      "choices": {
+        "a": "Using youthful features in product design",
+        "b": "Designing only for young demographics",
+        "c": "Avoiding mature-looking interfaces",
+        "d": "Focusing on simplicity and minimalism"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "How does the 'Biophilia Effect' influence design?",
+      "choices": {
+        "a": "By using natural elements to reduce stress",
+        "b": "Focusing on biometric data",
+        "c": "Designing for biological needs",
+        "d": "Avoiding artificial materials"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the 'Chunking' principle in design?",
+      "choices": {
+        "a": "Breaking down information into smaller units",
+        "b": "Using large blocks of text",
+        "c": "Grouping unrelated items",
+        "d": "Focusing on one aspect at a time"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What does 'Desire Line' indicate in design?",
+      "choices": {
+        "a": "The most efficient path chosen by users",
+        "b": "The designer's intended path",
+        "c": "Aesthetic preferences of users",
+        "d": "The most expensive components in design"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What does 'Cognitive Dissonance' describe in user experience?",
+      "choices": {
+        "a": "Ease of learning a new system",
+        "b": "Discomfort from conflicting beliefs and behaviors",
+        "c": "User's ability to predict system behavior",
+        "d": "High cognitive load in using a product"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is the purpose of 'Constraint' in design?",
+      "choices": {
+        "a": "To limit actions performed on a system",
+        "b": "To add more features to a product",
+        "c": "To create an open-ended user experience",
+        "d": "To reduce the cost of production"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What does 'Consistency' refer to in design?",
+      "choices": {
+        "a": "Keeping the same color palette",
+        "b": "Uniformity in aesthetic and functional aspects",
+        "c": "Using the same font throughout",
+        "d": "Designing for a consistent user base"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is a 'Mental Model' in design?",
+      "choices": {
+        "a": "A representation of a designer's thought process",
+        "b": "A user's understanding of how a system works",
+        "c": "A 3D model of the design",
+        "d": "A psychological profile of target users"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is the principle of 'Closure' in design?",
+      "choices": {
+        "a": "Finishing a project within deadlines",
+        "b": "Users perceiving a complete shape even when it's not fully outlined",
+        "c": "Closing the gap between user expectations and product performance",
+        "d": "Ending the lifecycle of a product"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What does 'Common Fate' imply in design?",
+      "choices": {
+        "a": "Elements moving in the same direction are perceived as a unit",
+        "b": "Common functionalities shared by all users",
+        "c": "The eventual obsolescence of a design",
+        "d": "Shared responsibilities in a design team"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What does 'Good Continuation' mean in design?",
+      "choices": {
+        "a": "Continuously updating the product",
+        "b": "Elements aligned in a straight line are seen as related",
+        "c": "Designing for long-term sustainability",
+        "d": "Ensuring a product's lifecycle continues"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is a key aspect of 'Actionable' research?",
+      "choices": {
+        "a": "Being easy to understand",
+        "b": "Having clear implications for design and development",
+        "c": "Focusing on theoretical knowledge",
+        "d": "Being inexpensive to conduct"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which method limits actions performed on a system in design?",
+      "choices": {
+        "a": "Chunking",
+        "b": "Closure",
+        "c": "Constraint",
+        "d": "Consistency"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What does the 'Baby Face Bias' in design imply?",
+      "choices": {
+        "a": "Preference for simpler designs",
+        "b": "Using baby-like features to evoke trust",
+        "c": "Designing for younger demographics",
+        "d": "Avoiding complex features in products"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What principle refers to users seeing a complete shape even when it's not fully outlined?",
+      "choices": {
+        "a": "Closure",
+        "b": "Chunking",
+        "c": "Common Fate",
+        "d": "Good Continuation"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "In design, what is 'Consistency' mainly about?",
+      "choices": {
+        "a": "Repeating elements for visual appeal",
+        "b": "Maintaining uniformity in functionality and aesthetics",
+        "c": "Using the same design team for all projects",
+        "d": "Keeping a consistent user interface"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is the 'Common Fate' principle in design?",
+      "choices": {
+        "a": "Elements moving in the same direction are perceived as related",
+        "b": "Common user interface across different platforms",
+        "c": "Shared fate of design and marketing",
+        "d": "Design that adapts to user feedback"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What does 'Good Continuation' signify in design?",
+      "choices": {
+        "a": "Designs that evolve over time",
+        "b": "Elements aligned in a straight line are perceived as related",
+        "c": "Continuous user experience across different platforms",
+        "d": "Long-lasting design impact"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is 'Chunking' in design?",
+      "choices": {
+        "a": "Breaking down large projects into smaller tasks",
+        "b": "Segmenting users into different categories",
+        "c": "Dividing information into manageable units",
+        "d": "Using large chunks of color in design"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What role does 'Biophilia Effect' play in design?",
+      "choices": {
+        "a": "Incorporating elements of nature to reduce stress",
+        "b": "Designing for biological sustainability",
+        "c": "Focusing on bio-inspired patterns",
+        "d": "Using biometric data for design decisions"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is 'Desire Line' in design context?",
+      "choices": {
+        "a": "The most aesthetically pleasing aspect of design",
+        "b": "The path most often chosen by users",
+        "c": "Design trends that are currently popular",
+        "d": "The designer's preferred way of using a product"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What does 'Cognitive Dissonance' refer to in user experience?",
+      "choices": {
+        "a": "User's ability to learn a new system",
+        "b": "Frustration from a poorly designed interface",
+        "c": "Discomfort from conflicting beliefs and behaviors",
+        "d": "Users' cognitive load when using a product"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "In the context of design, what is a 'Mental Model'?",
+      "choices": {
+        "a": "A visualization of the design process",
+        "b": "A conceptual framework in a designer's mind",
+        "c": "Users' understanding of how a system works",
+        "d": "A digital model of the final product"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the focus of 'Actionable' research in design?",
+      "choices": {
+        "a": "Providing cost-effective solutions",
+        "b": "Presenting theoretical concepts",
+        "c": "Having clear implications for design and development",
+        "d": "Focusing on immediate implementation"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Why is 'Area Alignment' important in design?",
+      "choices": {
+        "a": "It ensures all elements are of equal size",
+        "b": "It aligns elements to balance visual weight",
+        "c": "It uses similar areas for similar functions",
+        "d": "It maintains consistent spacing between elements"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "In software design, what does 'Requirement Gathering' entail?",
+      "choices": {
+        "a": "Collecting user feedback post-launch",
+        "b": "Documenting software bugs and issues",
+        "c": "Determining what features the software needs",
+        "d": "Gathering a team for software development"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the main goal of 'Usability Testing' in software development?",
+      "choices": {
+        "a": "Ensuring the software is free of bugs",
+        "b": "Assessing the software's ease of use and user satisfaction",
+        "c": "Testing the software's performance under load",
+        "d": "Checking the software's compatibility with different systems"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is the primary focus during the 'Design' stage of software development?",
+      "choices": {
+        "a": "Writing the code for the software",
+        "b": "Creating a marketing strategy for the software",
+        "c": "Planning the software's architecture and user interface",
+        "d": "Determining the software's price"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What does the '80/20 Rule' imply in the context of software development?",
+      "choices": {
+        "a": "20% of the code has 80% of the bugs",
+        "b": "80% of the software's features are used by 20% of the users",
+        "c": "20% of the development time produces 80% of the results",
+        "d": "80% of a project's benefits come from 20% of the work"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "What is the significance of 'Agile Development' in software engineering?",
+      "choices": {
+        "a": "It focuses on lengthy planning and documentation",
+        "b": "It emphasizes flexibility and customer feedback",
+        "c": "It requires detailed upfront design",
+        "d": "It is primarily used for large, unchanging projects"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is the purpose of 'Paper Prototyping' in software design?",
+      "choices": {
+        "a": "To create the final visual design of the software",
+        "b": "To test the physical aspects of a software product",
+        "c": "To quickly visualize and test design concepts",
+        "d": "To produce the final print version of software documentation"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "In the software lifecycle, what does the 'Maintenance' stage involve?",
+      "choices": {
+        "a": "Designing new features for the software",
+        "b": "Upgrading the software's user interface",
+        "c": "Updating and fixing software post-release",
+        "d": "Planning for the software's discontinuation"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What does 'Python' primarily refer to in software development?",
+      "choices": {
+        "a": "A software testing tool",
+        "b": "A high-level programming language",
+        "c": "A project management methodology",
+        "d": "A database management system"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "In software design, what is 'Iteration'?",
+      "choices": {
+        "a": "The process of repeating software tests",
+        "b": "A cycle of development involving planning, design, and testing",
+        "c": "The final phase of software release",
+        "d": "A method of optimizing code"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What role does 'User Feedback' play in Agile development?",
+      "choices": {
+        "a": "It is gathered only at the beginning of the project",
+        "b": "It is considered secondary to the development plan",
+        "c": "It guides ongoing development and adjustments",
+        "d": "It is used only for marketing purposes"
+      },
+      "answer": "c"
+    },
+    {
+        "question": "What is a key purpose of user personas in design?",
+        "choices": {
+            "a": "To create detailed biographies of fictional characters",
+            "b": "To represent user segments with specific characteristics and needs",
+            "c": "To define the demographic details of the target market",
+            "d": "To outline the technical skills of potential users"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "In the context of software development, what is a 'User Story'?",
+        "choices": {
+            "a": "A detailed user manual for software operation",
+            "b": "A narrative describing the background of the software company",
+            "c": "A short, simple description of a feature from the perspective of the user",
+            "d": "A fictional story used for marketing software products"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What is the primary goal of the 'Requirement Gathering' stage in software development?",
+        "choices": {
+            "a": "Defining budget and resources",
+            "b": "Establishing the technical architecture",
+            "c": "Identifying and documenting user and system requirements",
+            "d": "Developing a marketing strategy for the software"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "What does 'Empathy' in design refer to?",
+        "choices": {
+            "a": "Understanding and sharing the feelings and needs of users",
+            "b": "Creating emotionally appealing designs",
+            "c": "Designing based on personal preferences",
+            "d": "Focusing on aesthetic aspects of design"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What are 'Deceptive Patterns' in user interface design?",
+        "choices": {
+            "a": "Complex patterns that enhance user experience",
+            "b": "Design tricks used to manipulate users into taking actions they might not otherwise",
+            "c": "Patterns used to protect user data and privacy",
+            "d": "Standard design templates for faster development"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "In software design, what is 'Prototyping'?",
+        "choices": {
+            "a": "The process of writing the initial code for the software",
+            "b": "Creating a preliminary model of the software to test and refine concepts",
+            "c": "Designing the final user interface of the software",
+            "d": "Developing the marketing prototype for presentations"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the role of 'Communication' in Agile software development?",
+        "choices": {
+            "a": "Providing updates to stakeholders at the end of the project",
+            "b": "Frequent and clear communication among team members and with stakeholders",
+            "c": "Communicating primarily through documentation",
+            "d": "Limiting communication to reduce distractions"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "What is the significance of 'Ethical Design' in software development?",
+        "choices": {
+            "a": "Focusing on maximizing profits",
+            "b": "Ensuring the software is visually appealing",
+            "c": "Designing with consideration for user privacy, accessibility, and well-being",
+            "d": "Following legal guidelines strictly"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "In Python, what does 'print(8 % 3)' output?",
+        "choices": {
+            "a": "2",
+            "b": "2.67",
+            "c": "5",
+            "d": "11"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "What is the output of the Python code 'print(\"Software\"[3:7])'?",
+        "choices": {
+            "a": "Sof",
+            "b": "ware",
+            "c": "twar",
+            "d": "soft"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Give an example of a situation where 'User Personas' can effectively guide design decisions.",
+        "choices": {
+            "a": "Choosing the programming language for software development",
+            "b": "Determining user interface elements based on user preferences",
+            "c": "Deciding on the server infrastructure for a web application",
+            "d": "Selecting a project management methodology"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Provide an example where a 'User Story' has a direct impact on software feature development.",
+        "choices": {
+            "a": "Implementing a 'drag and drop' feature to simplify file uploads for non-technical users",
+            "b": "Optimizing database queries for backend processing",
+            "c": "Upgrading server hardware for better performance",
+            "d": "Refactoring code for better maintainability"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Can you give an example of how 'Empathy' in design might influence product development?",
+        "choices": {
+            "a": "Choosing more vibrant colors for the user interface",
+            "b": "Adding more advanced features for expert users",
+            "c": "Designing an easy-to-navigate interface for elderly users",
+            "d": "Focusing on competitive pricing strategies"
+        },
+        "answer": "c"
+    },
+    {
+        "question": "Provide an example of 'Deceptive Patterns' in a web application.",
+        "choices": {
+            "a": "A clear and concise privacy policy",
+            "b": "A 'subscribe' button that is much larger and prominent than the 'unsubscribe' option",
+            "c": "Regularly updating the application for security",
+            "d": "Offering multiple language support"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Give an example of a scenario where 'Prototyping' is crucial in software development.",
+        "choices": {
+            "a": "Developing a complex algorithm for data analysis",
+            "b": "Creating a mock-up of a mobile app to gather user feedback on its usability",
+            "c": "Writing the documentation for software usage",
+            "d": "Setting up the server infrastructure"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Provide an example of effective 'Communication' in an Agile team.",
+        "choices": {
+            "a": "Daily stand-up meetings to discuss progress and obstacles",
+            "b": "Annual performance reviews of team members",
+            "c": "Emailing monthly financial reports to stakeholders",
+            "d": "Writing extensive software documentation"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Can you give an example of 'Ethical Design' in a social media platform?",
+        "choices": {
+            "a": "Implementing algorithms that maximize user screen time",
+            "b": "Providing clear privacy settings and consent options for data sharing",
+            "c": "Designing visually attractive advertisements",
+            "d": "Focusing solely on increasing the number of users"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Provide an example where the '80/20 Rule' might apply in software development.",
+        "choices": {
+            "a": "20% of the features are used by 80% of the users",
+            "b": "80% of the budget is spent in the final phase of development",
+            "c": "20% of the code is written in a different programming language",
+            "d": "80% of team meetings focus on new features"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Give an example where a 'Mental Model' in design is crucial for user experience.",
+        "choices": {
+            "a": "Designing an e-commerce website that mirrors the layout of a physical store",
+            "b": "Using highly technical language in user interfaces",
+            "c": "Changing the brand logo frequently",
+            "d": "Focusing on backend development"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Provide an example of 'Actionable' research in software design.",
+        "choices": {
+            "a": "A study showing that users prefer three-click navigation to access any feature",
+            "b": "Research indicating that Python is a popular programming language",
+            "c": "A general survey about internet usage patterns",
+            "d": "Historical data on software development trends"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Give an example of 'Constraint' being used effectively in a software interface.",
+        "choices": {
+            "a": "Limiting text field input to relevant characters for an email address",
+            "b": "Allowing users to enter any type of data in a date field",
+            "c": "Providing unlimited file upload size",
+            "d": "Offering all possible features in a single interface"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Can you provide an example of 'Closure' in web design?",
+        "choices": {
+            "a": "Using complete rectangles for buttons even if parts are obscured",
+            "b": "Having a non-interactive, static website",
+            "c": "Ensuring all links open in new tabs",
+            "d": "Using high-contrast colors for text and background"
+        },
+        "answer": "a"
+    },
+    {
+        "question": "Provide an example where 'Good Continuation' is applied in user interface design.",
+        "choices": {
+            "a": "Using a consistent color scheme across different pages",
+            "b": "Aligning elements in a straight line for a form",
+            "c": "Changing the layout for each section of a website",
+            "d": "Using different fonts for each paragraph"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Give an example where 'Biophilia Effect' is utilized in an office environment design.",
+        "choices": {
+            "a": "Implementing open office space without partitions",
+            "b": "Integrating plant life and natural light in the workspace",
+            "c": "Using synthetic materials for furniture",
+            "d": "Focusing on minimalist, industrial design"
+        },
+        "answer": "b"
+    },
+    {
+        "question": "Provide an example of 'Chunking' in a user interface.",
+        "choices": {
+            "a": "Presenting all information in a single, long paragraph",
+            "b": "Organizing content into tabs based on categories",
+            "c": "Using a single color throughout the interface",
+            "d": "Displaying all menu options at once"
+        },
+        "answer": "b"
+    }
+]
+
+
